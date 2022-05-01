@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="Bankalar.Module.BusinessObjects.dbDeneme2.Bankalar">
+      <OwnMembers>
+        <Member Name="bankaAdi" Caption="Banka Adı" />
+        <Member Name="id" Caption="ID" />
+        <Member Name="Subelers" Caption="Şubeler" />
+      </OwnMembers>
+    </Class>
+    <Class Name="Bankalar.Module.BusinessObjects.dbDeneme2.Subeler">
+      <OwnMembers>
+        <Member Name="banka_id" Caption="Banka ID" />
+        <Member Name="Bankalars" Caption="Bankalar" />
+        <Member Name="id" Caption="ID" />
+        <Member Name="subeAdi" Caption="Şube Adı" />
+      </OwnMembers>
+    </Class>
+    <Class Name="Bankalar.Module.BusinessObjects.dbDeneme2.tbl_hesaplar">
+      <OwnMembers>
+        <Member Name="hesapNo" Caption="Hesap No" />
+        <Member Name="id" Caption="ID" />
+        <Member Name="sube_id" Caption="Şube ID" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Localization>
+    <LocalizationGroup Name="DialogButtons">
+      <LocalizationItem Name="Add" Value="Add" />
+      <LocalizationItem Name="Close" Value="Close" />
+    </LocalizationGroup>
+  </Localization>
+  <NavigationItems>
+    <Items>
+      <Item Id="Default" Caption="Banka Sistemi" />
+      <Item Id="Reports" Caption="Raporlar" />
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="21.2.6.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>

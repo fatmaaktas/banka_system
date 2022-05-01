@@ -1,0 +1,16 @@
+C:\Sources_2010\Bankalar\Bankalar.Module\bin\Debug\net5.0\appsettings.json
+C:\Sources_2010\Bankalar\Bankalar.Module\bin\Debug\net5.0\Bankalar.Module.deps.json
+C:\Sources_2010\Bankalar\Bankalar.Module\bin\Debug\net5.0\Bankalar.Module.dll
+C:\Sources_2010\Bankalar\Bankalar.Module\bin\Debug\net5.0\Bankalar.Module.pdb
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.csproj.AssemblyReference.cache
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.AssemblyInfoInputs.cache
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.AssemblyInfo.cs
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.csproj.CoreCompileInputs.cache
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.dll
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\refint\Bankalar.Module.dll
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.pdb
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\ref\Bankalar.Module.dll
+C:\Sources_2010\Bankalar\Bankalar.Module\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.dll
+C:\Sources_2010\Bankalar\Bankalar.Module\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.xml
+C:\Sources_2010\Bankalar\Bankalar.Module\obj\Debug\net5.0\Bankalar.Module.csproj.CopyComplete

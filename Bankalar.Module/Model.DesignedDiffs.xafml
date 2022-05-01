@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="Bankalar">
+  <ActionDesign>
+    <Actions>
+      <Action Id="Cancel" Caption="İptal" />
+      <Action Id="Delete" Caption="Sil" />
+      <Action Id="DialogClose" Caption="Kapat" />
+      <Action Id="New" Caption="Yeni" />
+      <Action Id="Refresh" Caption="Yenile" />
+      <Action Id="Save" Caption="Kaydet" />
+      <Action Id="SaveAndClose" Caption="Kaydet ve Kapat" />
+      <Action Id="SaveAndNew" Caption="Kaydet ve Yeni Ekle" />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="Bankalar.Module.BusinessObjects.dbDeneme2.OzGecmis" DefaultDetailViewImage="" />
+  </BOModel>
+  <CreatableItems>
+    <CreatableItem ClassName="Bankalar.Module.BusinessObjects.dbDeneme2.Bankalar" ImageName="Business_Bank" />
+    <CreatableItem ClassName="Bankalar.Module.BusinessObjects.dbDeneme2.OzGecmis" ImageName="Security_PersonalID" />
+    <CreatableItem ClassName="Bankalar.Module.BusinessObjects.dbDeneme2.Subeler" ImageName="Actions_Home" />
+    <CreatableItem ClassName="Bankalar.Module.BusinessObjects.dbDeneme2.tbl_hesaplar" ImageName="BO_Document" />
+  </CreatableItems>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="21.2.6.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>

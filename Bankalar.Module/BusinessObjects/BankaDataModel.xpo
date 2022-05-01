@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="54289a76-45f5-4537-9fb1-d448d2ffb568" namespace="Bankalar.Module.BusinessObjects.dbDeneme2" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="true" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="FA11dbDeneme2" createdInVersion="21.2.6.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="21.2.6.0" name="dbDeneme2" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="70ffbff6-1304-4cbc-a6ff-bd01a22bdaeb">
+      <comment Id="fb867082-c286-46da-adc4-e8e689d01654" text="The 'PK_tbl_bankalar' index is ignored, because 'id' is a key" name="tbl_bankalarComment">
+        <subjects>
+          <commentReferencesSubjects Id="82583dc7-5b7c-4131-a163-7182a9deaa7c">
+            <xpObjectMoniker Id="b5b1b150-7039-43e4-8ec3-c99385569c5a" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="427c8795-b9bf-4c20-8754-c4457fd05a9f">
+      <comment Id="76f77584-8b9d-4d00-9434-6bf01e2121c9" text="The 'PK_tbl_hesaplar' index is ignored, because 'id' is a key" name="tbl_hesaplarComment">
+        <subjects>
+          <commentReferencesSubjects Id="874fcb74-367e-4e96-8044-8d5848bd9572">
+            <xpObjectMoniker Id="795f69ee-0d0e-487a-956d-c8263c39b4d7" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="76ad4fe7-604c-4295-9590-d139fed2b9eb">
+      <comment Id="d833f64e-593e-4506-b652-27204ddf2ecc" text="The 'PK_tbl_subeler' index is ignored, because 'id' is a key" name="tbl_subelerComment">
+        <subjects>
+          <commentReferencesSubjects Id="4ac23872-fa00-4d5e-a961-4427e78b663b">
+            <xpObjectMoniker Id="0a9ccdb4-36b3-44c6-945e-ec84d614016d" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="9771348a-41cd-4549-8d54-234f3f34d42a">
+      <comment Id="254bc9fd-730b-41aa-9ef2-90d29708e8db" text="The 'PK_oz_gecmis' index is ignored, because 'id' is a key" name="oz_gecmisComment">
+        <subjects>
+          <commentReferencesSubjects Id="4394da78-4f42-45d9-a18f-2bda6db1b873">
+            <xpObjectMoniker Id="f54f2b8f-4bbd-4f5e-80d0-0ce3a12e8868" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="86e6b7c1-19bb-485f-b7d3-67ff763a6f62">
+      <xpObject Id="b5b1b150-7039-43e4-8ec3-c99385569c5a" name="Bankalar" baseClass="XPLiteObject" userFileName="tbl_bankalar" designerFileName="tbl_bankalar.Designer" className="Bankalar" initialName="tbl_bankalar" virtualBaseClass="XPLiteObject" persistent="tbl_bankalar" virtualName="Bankalar">
+        <fields>
+          <generalXpObjectHasFields Id="f3cbb114-8285-4450-8916-bbe9a8bab846">
+            <field Id="f3b3aaf8-8893-4d8e-a6b0-d57a720796ca" name="id" columnType="Guid" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Guid" delayedUpdateModifiedOnly="false" defaultValue="Object#5a9d5e0b-f99c-4054-a7ad-289ec6d97432" dbDefaultValue="(newid())" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2530de70-e9db-49f5-bbc7-3c5c3679afe3">
+            <field Id="3c29e81c-716e-4be6-99d4-845fb7397206" name="bankaAdi" initialName="bankaAdi" persistent="bankaAdi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="2f7fbb59-b56d-480a-b922-e241f21b99b3">
+      <xpObject Id="795f69ee-0d0e-487a-956d-c8263c39b4d7" name="tbl_hesaplar" baseClass="XPLiteObject" userFileName="tbl_hesaplar" designerFileName="tbl_hesaplar.Designer" className="tbl_hesaplar" initialName="tbl_hesaplar" virtualBaseClass="XPLiteObject" persistent="tbl_hesaplar" virtualName="tbl_hesaplar">
+        <fields>
+          <generalXpObjectHasFields Id="cb834a6a-dd84-41bc-8ee2-8b2fda50b2d9">
+            <field Id="81546c56-1c2e-4d3a-9cd2-6e023e75a524" name="id" columnType="Guid" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Guid" delayedUpdateModifiedOnly="false" defaultValue="Object#c5c9499b-1e77-45ad-81fc-1b3dab076bf4" dbDefaultValue="(newid())" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6473c235-a953-4d82-95a9-bfcb50b73316">
+            <field Id="d5b6f02c-980f-4162-9b36-9555d91d1dcb" name="sube_id" columnType="Guid" initialName="sube_id" persistent="sube_id" virtualColumnType="Guid" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3de48cb3-4a85-4a63-a311-57fdbe472e55">
+            <field Id="b692ed75-d7a7-433c-8a43-0a00b72abe48" name="hesapNo" initialName="hesapNo" persistent="hesapNo" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="72041b5a-b5fa-4cf6-ad92-11cab8eb7bf7">
+      <xpObject Id="0a9ccdb4-36b3-44c6-945e-ec84d614016d" name="Subeler" baseClass="XPLiteObject" userFileName="tbl_subeler" designerFileName="tbl_subeler.Designer" className="Subeler" initialName="tbl_subeler" virtualBaseClass="XPLiteObject" persistent="tbl_subeler" virtualName="Subeler">
+        <fields>
+          <generalXpObjectHasFields Id="e6b6a417-b73f-4cb9-9266-9ab5a13a0843">
+            <field Id="f82942da-641c-4153-8c6f-a79a68e6e3ca" name="id" columnType="Guid" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Guid" delayedUpdateModifiedOnly="false" defaultValue="Object#7dde7ec9-c6d5-4731-bd31-1619aad9139f" dbDefaultValue="(newid())" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2946d0ba-2144-4ccd-90a9-16c3146a9553">
+            <field Id="c412c693-ebb2-4180-96e5-8a0cb377bff7" name="banka_id" columnType="Guid" initialName="banka_id" persistent="banka_id" virtualColumnType="Guid" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="163b6106-b73a-49b3-9c21-e92f2607d3a0">
+            <field Id="e5d2d3b7-1aab-48fd-a1b2-4d715c132c9f" name="subeAdi" initialName="subeAdi" persistent="subeAdi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="ffa867dd-2b8e-4f94-afe5-ad2fc0a8e2a4">
+      <xpObject Id="f54f2b8f-4bbd-4f5e-80d0-0ce3a12e8868" name="OzGecmis" baseClass="XPLiteObject" userFileName="oz_gecmis" designerFileName="oz_gecmis.Designer" className="OzGecmis" initialName="oz_gecmis" virtualBaseClass="XPLiteObject" persistent="oz_gecmis" virtualName="OzGecmis">
+        <fields>
+          <generalXpObjectHasFields Id="85ccd23a-4f97-4c4a-9081-d01268c7ba09">
+            <field Id="a1e612c2-de07-441c-ae57-907557105094" name="id" columnType="Int32" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="95b094e7-8b6f-44c0-875d-b725290b15ee">
+            <field Id="4c106433-48a1-4cfe-adb0-8bcc4801ae16" name="ad_soyad" initialName="ad_soyad" persistent="ad_soyad" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c4dc3056-c0a0-461d-be72-cf116c4d10f5">
+            <field Id="a1d80b06-08f8-4e58-b6a8-ea30ffd4e1e0" name="telefon" columnType="Decimal" initialName="telefon" persistent="telefon" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="69fbf7d7-2a77-4dc8-b2ce-c10d40207bc6">
+            <field Id="b7056bd2-2d9b-4e09-ae59-db27d23677ed" name="adres" initialName="adres" persistent="adres" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="ede31063-653d-4f7d-a1d8-814baff5fcd8">
+            <field Id="d38aaecb-80c0-48c7-b07c-0c75bbbdc7f1" name="hobiler" initialName="hobiler" persistent="hobiler" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="022dacf8-ce6e-4a4b-9e8e-460d3c1d5075">
+            <field Id="3a0cdf62-e340-4338-b17b-59fdf54723c8" name="deneyimler" initialName="deneyimler" persistent="deneyimler" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>

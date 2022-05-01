@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel Id="BOModel">
+    <Class Name="Bankalar.Module.BusinessObjects.dbDeneme2.tbl_hesaplar">
+      <OwnMembers Id="OwnMembers">
+        <Member Name="hesapAdi" Caption="Hesap Adı" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+</Application>
